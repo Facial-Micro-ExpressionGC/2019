@@ -662,10 +662,11 @@ html {
 #cta p {
     font-family: 'Dosis';
     font-size: 22px;
-    text-align: center;
-    text-transform: uppercase;
+    text-align: justified;
+    text-justify: inter-word;
+    text-transform: lowercase;
     font-weight: 400;
-    color: #fff;
+    color: black;
 }
 
 #map {
