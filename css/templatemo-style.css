@@ -32,7 +32,7 @@ html {
 }
 
 .navbar-default {
-    background-color: black;
+    background-color: #98d361;
     border-color: transparent;
 }
 
@@ -125,20 +125,20 @@ html {
 
 #big-banner .main-icons i {
     font-size: 72px;
-    color: white;
+    color: #fff;
     display: block;
     padding-bottom: 20px;
 }
 
 #big-banner .main-icons i:hover {
-    color: white !important;
+    color: #8bc655 !important;
 }
 
 #big-banner .main-icons a {
     display: block;
     font-family: 'Dosis';
     font-size: 22px;
-    color: white;
+    color: #fff;
     text-decoration: none;
     font-weight: 600;
     text-transform: uppercase;
@@ -146,8 +146,8 @@ html {
 }
 
 .heading {
-    border-bottom: 4px solid black;
-    border-top: 4px solid black;
+    border-bottom: 4px solid #98d361;
+    border-top: 4px solid #98d361;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -161,13 +161,14 @@ html {
     padding-top: 10px;
     margin-bottom: 30px;
 }
+
 .triangle {
     margin-left: 45%;
     width: 0;
     height: 0;
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
-    border-top: 45px solid black;
+    border-top: 45px solid #98d361;
 }
 
 .cd-container {
@@ -655,17 +656,16 @@ html {
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
-    color: black;
+    color: #fff;
 }
 
 #cta p {
     font-family: 'Dosis';
     font-size: 22px;
-    text-align: justify;
-    text-justify: inter-word;
-    text-transform: lowercase;
+    text-align: center;
+    text-transform: uppercase;
     font-weight: 400;
-    color: black;
+    color: #fff;
 }
 
 #map {
@@ -683,7 +683,7 @@ html {
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
-    color: black;
+    color: #fff;
 }
 
 #map p {
@@ -692,7 +692,7 @@ html {
     text-align: center;
     text-transform: uppercase;
     font-weight: 400;
-    color: black;
+    color: #fff;
 }
 
 .map-content {
@@ -729,7 +729,7 @@ textarea {
     font-size: 17px;
     font-weight: 600;
     text-transform: uppercase;
-    border: 3px solid black;
+    border: 3px solid #b1e67f;
     width: 160px;
     height: 45px;
     display: block;
@@ -737,7 +737,7 @@ textarea {
     text-align: center;
     color: #fff;
     text-decoration: none;
-    background-color: black;
+    background-color: #98d361;
 }
 
 .submit input:hover {
@@ -768,8 +768,6 @@ form {
     color: #333;
     font-weight: 500;
     line-height: 20px;
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 #templatemo-map {
@@ -778,7 +776,7 @@ form {
 }
 
 footer {
-    background-color: black;
+    background-color: #98d361;
     margin-top: 40px;
 }
 
@@ -815,7 +813,7 @@ footer {
     font-size: 17px;
     font-weight: 600;
     text-transform: uppercase;
-    border: 3px solid black;
+    border: 3px solid #b1e67f;
     width: 170px;
     height: 40px;
     display: inline-block;
@@ -823,12 +821,12 @@ footer {
     text-align: center;
     color: #fff;
     text-decoration: none;
-    background-color: black;
+    background-color: #98d361;
 }
 
 .back-to-top a:hover {
-    background-color: black;
-    border-color: black;
+    background-color: #98d361;
+    border-color: #8bc655;
 }
 
 .social-icons ul {
@@ -850,13 +848,13 @@ footer {
     display: block;
     text-align: center;
     line-height: 35px;
-    background-color: black;
-    border: 4px solid black;
+    background-color: #98d361;
+    border: 4px solid #b1e67f;
 }
 
 .social-icons a:hover {
-    background-color: black;
-    border-color: black;
+    background-color: #98d361;
+    border-color: #8bc655;
 }
 
 @media (max-width:992px) {
@@ -892,24 +890,24 @@ footer {
 
 @media (max-width:767px) {
     .navbar-default .navbar-toggle {
-        border-color:black;
+        border-color: #8bc655;
         color: #fff;
     }
 
     .navbar-default .navbar-toggle:hover {
-        background-color: black;
+        background-color: #98e361;
         color: #fff;
     }
 
     .navbar-default .navbar-nav>li>a {
         padding-bottom: 13px;
         text-align: center;
-        border-color: black;
-        border-top: 1px solid black;
+        border-color: #8bc655;
+        border-top: 1px solid #8bc655;
     }
 
     .contact {
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #8bc655;
     }
 }
 
@@ -1048,6 +1046,3 @@ footer {
 
     #big-banner .main-icons {
         text-align: center;
-        margin-top: 120px;
-    }
-}
