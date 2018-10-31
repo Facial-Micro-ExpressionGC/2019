@@ -125,20 +125,20 @@ html {
 
 #big-banner .main-icons i {
     font-size: 72px;
-    color: black;
+    color: white;
     display: block;
     padding-bottom: 20px;
 }
 
 #big-banner .main-icons i:hover {
-    color: #8bc655 !important;
+    color: white !important;
 }
 
 #big-banner .main-icons a {
     display: block;
     font-family: 'Dosis';
     font-size: 22px;
-    color: #fff;
+    color: white;
     text-decoration: none;
     font-weight: 600;
     text-transform: uppercase;
@@ -684,7 +684,7 @@ html {
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
-    color: #fff;
+    color: black;
 }
 
 #map p {
@@ -693,7 +693,7 @@ html {
     text-align: center;
     text-transform: uppercase;
     font-weight: 400;
-    color: #fff;
+    color: black;
 }
 
 .map-content {
