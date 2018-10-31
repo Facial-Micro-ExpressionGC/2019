@@ -660,11 +660,15 @@ html {
 }
 
 #cta p {
+    text-transform: lowercase;
+    line-height: 3;
+}
+
+p::first-letter {
+    text-transform: uppercase;
     font-family: 'Dosis';
     font-size: 22px;
     text-align: justified;
-    text-justify: inter-character;
-    text-transform: lowercase;
     font-weight: 400;
     color: black;
 }
