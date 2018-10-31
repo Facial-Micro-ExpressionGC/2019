@@ -664,7 +664,7 @@ html {
     font-size: 22px;
     text-align: justify;
     text-justify: inter-word;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-weight: 400;
     color: black;
 }
