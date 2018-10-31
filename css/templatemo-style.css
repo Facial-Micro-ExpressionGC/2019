@@ -146,8 +146,8 @@ html {
 }
 
 .heading {
-    border-bottom: 4px solid #98d361;
-    border-top: 4px solid #98d361;
+    border-bottom: 4px solid black;
+    border-top: 4px solid black;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -168,7 +168,7 @@ html {
     height: 0;
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
-    border-top: 45px solid #98d361;
+    border-top: 45px solid black;
 }
 
 .cd-container {
@@ -730,7 +730,7 @@ textarea {
     font-size: 17px;
     font-weight: 600;
     text-transform: uppercase;
-    border: 3px solid #b1e67f;
+    border: 3px solid black;
     width: 160px;
     height: 45px;
     display: block;
@@ -738,7 +738,7 @@ textarea {
     text-align: center;
     color: #fff;
     text-decoration: none;
-    background-color: #98d361;
+    background-color: black;
 }
 
 .submit input:hover {
